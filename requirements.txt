@@ -6,3 +6,6 @@ langchain
 serpapi 
 beautifulsoup4
 google-search-results
+beautifulsoup4
+requests
+openai
